@@ -22,8 +22,8 @@ Dream is a lightweight, local-first chatbot powered by the **Gemma 2B** large la
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/dream-ai-chatbot.git
-cd dream-ai-chatbot
+git clone https://github.com/PrinceGupta8/Simple-LLM-Chatbot.git
+cd Simple-LLM-Chatbot
 ```
 
 ### 2. Install Requirements
